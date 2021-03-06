@@ -7,4 +7,5 @@ To compile and run the code in Linux machine :
 Fortran program (.f90) => Compile (gfortran compiler) => Object file (.o) => Link => Executable program
 
 $ gfortran hello_world.f90 -o hello_world
+
 $ ./hello_world
